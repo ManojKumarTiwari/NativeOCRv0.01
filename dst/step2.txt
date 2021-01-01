@@ -1,0 +1,1 @@
+pdfs will be automatically converted to .png files
